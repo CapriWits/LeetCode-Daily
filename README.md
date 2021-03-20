@@ -4,7 +4,7 @@
 
 **In .java files, I will annotate the significant thinking about how to solute the problem.**
 
-**Or you can see the detailed answers in my blog: **
+**Or you can see the detailed answers in my blog:**
 
 
 
