@@ -1,6 +1,6 @@
 # README.md
 
-**This repository show solutions for LeetCode and not take notes how to figure them out.**
+**This repository show solutions of LeetCode and not take notes how to figure them out.**
 
 **In .java files, I will annotate the significant thinking about how to solute the problem.**
 
