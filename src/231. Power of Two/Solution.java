@@ -1,28 +1,18 @@
 import java.util.*;
 
+/* 231. Power of Two */
 public class Solution {
-
     /**
-     * method 1
-     * @param n
-     * @return
+     * method1
      */
     public boolean isPowerOfTwo(int n) {
-        if (n <= 0) return false;
-        long x = (long) n;
-        return (x & (x - 1)) == 0;
+        return n > 0 && (n & (n - 1)) == 0;
     }
 
     /**
-     * method 2
-     * @param n
-     * @return
+     * method2
      */
     public boolean isPowerOfTwo2(int n) {
-        if (n <= 0) return false;
-        long x = (long) n;
-        return (x & (-x)) == x;
+        return n > 0 && (n & (-n)) == n;
     }
-
 }
-
