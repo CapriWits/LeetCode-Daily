@@ -1,4 +1,4 @@
-# README.md
+# README.md ![Language](https://img.shields.io/badge/language-Java-orange)
 
 **This repository show solutions of LeetCode and not take notes how to figure them out.**
 
